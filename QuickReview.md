@@ -1,0 +1,23 @@
+# Quick-Review Sheet: The Numbers That Trip You Up
+## TINEA
+**Corporis:** topical azole BID, include margin of normal skin, 1–4 wk • NO antifungal+steroid combos • Griseofulvin = systemic drug of choice >2 yr, 2–4 wk (non-scalp), take with FATTY food • Extended griseofulvin: CBC + LFT + renal at 8 wk, then every 8 wk • Back to school 24 h after treatment starts • F/u 2 wk; no response → culture + switch class • KOH from lesion BORDER • Tinea incognito = steroid/calcineurin cream → improves then rebounds
+**Cruris:** topical 4–6 wk • spares penis, scrotum, labia majora (Candida does NOT spare scrotum + has satellites) • socks BEFORE underwear
+**Pedis:** apply 1 cm beyond border BID until 7 days AFTER clearing; usual 3–6 wk • griseofulvin (rare) 6–8 wk • 3rd–5th toe webs; dorsum clear • F/u 2–3 wk • sports OK • foul odor = secondary bacterial
+**Versicolor (Malassezia):** selenium sulfide 2.5% thin layer 30 min, 2×/wk × 2–4 wk → monthly × 3 mo • topical azole BID 2–4 wk • oral: fluconazole 400 mg ONCE or itraconazole 400 mg ONCE → exercise/sweat after • F/u 1 mo • no flaking on scrape = working • repigmentation takes MONTHS
+## SEBORRHEA & DIAPER
+**Seb derm:** NOT pruritic, no pustules • infant: mineral oil 5–10 min → mild shampoo, soft brush; NO medicated shampoo <2 yr • teen face: ketoconazole 2% daily, desonide 0.05% intermittent • scalp shampoo 2–3×/wk (1–4×/mo African American), leave on 5–10 min • F/u 1–2 wk • severe generalized → think HIV
+**Diaper:** change q1–2 h, ≥8/24 h • HC 0.5–1% thin layer TID ≤5 DAYS, never fluorinated • sitz 10–15 min QID • irritant = convex, creases SPARED (peak 9–12 mo) • Candida = folds + satellites • Seborrhea = IN creases, greasy, onset 3–4 wk • phone f/u 1–2 days, reassess within 1 wk
+## HERPES
+**HSV:** incubation 2–12 d • Tzanck = giant cells, CAN'T type • viral culture = gold standard • acyclovir 20–40 mg/kg/dose 5×/day × 5 d (>2 yr), best within 3 DAYS • whitlow: 200 mg 5×/day × 5–10 d • frequent recurrences: prophylaxis × 6 mo • diphenhydramine rinse max 5 mg/kg/d • daycare exclusion ONLY gingivostomatitis + can't control secretions • REFER: newborn, immunosuppressed, infected eczema, eye/lid
+**Zoster:** does NOT cross midline • acyclovir 30 mg/kg/d ÷ QID × 5 d only if immunosuppressed, ocular, Ramsay Hunt • NO salicylates • eye/forehead/NOSE → immediate ophtho • new vesicles up to 1 wk, resolve 2–3 wk • covered lesions = can attend school • >1 dermatome → think HIV
+## MOLLUSCUM & WARTS
+**Molluscum:** 1–6 mm umbilicated, spares palms/soles/scalp • resolves 6 mo–2 yr (up to 4) • NO school exclusion • molluscum dermatitis → moisturizer, AVOID hydrocortisone • genital → abuse eval • hundreds → HIV
+**Warts:** salicylic >20% × 4–6 wk (not >5 mm) • 40% plaster 3–5 d = plantar • retinoic acid 0.025–0.05% = FLAT warts only • duct tape 12 h/day × 6 days • cryo 2–10 s, 1–3 mm beyond • cantharidin 0.7% × 24 h = periungual/plantar ONLY • podophyllum wash off at 4 h • cimetidine 20–30 mg/kg/d BID × 3–4 mo • imiquimod >12 yr daily × 1–2 mo • filiform → scissors • F/u 2–3 wk
+## CONTACT DERMATITIS
+Irritant = immediate; allergic = type IV DELAYED • compresses 20 min q4–6 h • topical steroid 2–3×/day: relief 2–3 d, healing 2–3 wk • ORAL steroid if >10% BSA: 10–14 d, taper last 7 • no lanolin emollient if inflamed • worsens/recurs → patch testing
+## EXANTHEMS
+**Roseola (HHV-6):** 7–24 mo • high fever 3–7 d, child looks well → rash as fever BREAKS, trunk outward • febrile seizure 10–15% • most contagious during fever
+**Measles:** incubation 8–12 d • 3 C's + Koplik (opposite lower molars) • rash day 3–4, hairline → down • contagious ~4 d before to 4 d after rash • AIRBORNE • report on suspicion (≤24 h) • Vitamin A × 2 days: <6 mo 50,000 IU • 6–11 mo 100,000 • ≥12 mo 200,000 • MMR within 72 H • immune globulin within 6 DAYS • pneumonia = top killer • SSPE late, fatal
+**Mumps:** incubation 16–18 d (12–25) • contagious 1–2 d before to 5 d after swelling • exclusion: your text says 9 days; current CDC/AAP says 5 days • ear pushed up and out, "pickle sign" • ↑ amylase • orchitis ~10% postpubertal males, sterility rare
+**Rubella:** incubation 14–21 d (mean 18) • shedding 5 d before to 6 d after rash • postauricular / posterior cervical / occipital nodes • Forchheimer spots NOT pathognomonic • IgM may be negative before day 5 of rash → repeat • 1st 12 wk: 61% defects; 2nd trimester: 26% • home ~7 days after rash • arthritis in postpubertal females
+**Fifth (parvovirus B19):** slapped cheek → lacy rash on body • NOT contagious once rash appears (no exclusion) • aplastic crisis in sickle cell/hemolytic anemia • hydrops fetalis risk in pregnancy • adults: symmetric hand/wrist/knee arthritis • supportive care
